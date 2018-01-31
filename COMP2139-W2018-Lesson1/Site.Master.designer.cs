@@ -7,22 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP2139_W2018_Lesson1
-{
-
-
-    public partial class SiteMaster
-    {
-
-        /// <summary>
-        /// HeadContent control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder HeadContent;
-
+namespace COMP2139_W2018_Lesson1 {
+    
+    
+    public partial class SiteMaster {
+        
         /// <summary>
         /// MainContent control.
         /// </summary>
